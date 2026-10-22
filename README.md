@@ -9,6 +9,7 @@ While developing FlexAutoDock, I started writing code in a more organized way so
 This repository mainly covers two areas of my research:
    Transcriptomics and machine learning: Identifying differentially expressed genes, finding potential biomarkers, and investigating molecular relationships between diseases.
    Immunoinformatics and vaccine design: Identifying conserved regions and screening potential vaccine candidates against Human Rhinovirus C (HRV-C).
+   
 The codes were developed during different research projects, so they are not necessarily designed to work as a single, fully automated pipeline. Please read the descriptions and understand your data before applying any of them to your own research.
 
 1. Transcriptomics Analysis
