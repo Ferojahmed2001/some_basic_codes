@@ -1,4 +1,4 @@
-**Welcome to my research repository!**
+**Welcome to my research repository----**
 
 I created this repository to showcase some of the codes I have written and used throughout my research projects. Most of these scripts come from my own attempts to understand research methods, learn the underlying theories, and implement them in practice.
 
