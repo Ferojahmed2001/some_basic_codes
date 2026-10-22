@@ -1,4 +1,4 @@
-Welcome to my research repository!
+**Welcome to my research repository!**
 
 I created this repository to showcase some of the codes I have written and used throughout my research projects. Most of these scripts come from my own attempts to understand research methods, learn the underlying theories, and implement them in practice.
 
@@ -14,13 +14,14 @@ While developing FlexAutoDock, I started writing code in a more organized way so
 The codes were developed during different research projects, so they are not necessarily designed to work as a single, fully automated pipeline. Please read the descriptions and understand your data before applying any of them to your own research.
 
 **1. Transcriptomics Analysis**
+
 This section contains scripts from some of my transcriptomics projects, including investigations into the molecular relationships between type 2 diabetes and triple-negative breast cancer (TNBC), as well as type 2 diabetes and hepatitis B virus (HBV) infection.
 My work in this area involves collecting and preprocessing gene expression datasets, correcting batch effects, identifying differentially expressed genes, applying machine learning to prioritize important genes, and investigating potential biomarkers.
 
 **1.1. Microarray Data Collection and Preprocessing**
 
-**micro_array_part_1.ipynb:
-**
+**micro_array_part_1.ipynb:**
+
 Start here if you want to understand how I collect and prepare microarray datasets.
 This is one of the essential scripts in my transcriptomics workflow. It focuses on collecting gene expression data from the Gene Expression Omnibus (GEO) using accession IDs and preparing the data for downstream analysis.
 The main steps include:
