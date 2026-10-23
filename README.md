@@ -2,7 +2,7 @@
 ---
 I created this repository to showcase some of the codes I have written and used throughout my research projects. Most of these scripts come from my own attempts to understand research methods, learn the underlying theories, and implement them in practice.
 
-Some of the older scripts may look messy, contain repetitive steps or require adjustments before they can be used with another dataset. I wasn't an organized programmer before. I understand the theory and the analytical pipeline behind the projects and I can reproduce analyses because I know how different steps work and why they are necessary.
+Some of my earlier scripts may require refactoring, contain repetitive code, or need adaptation before being applied to new datasets. Although I was less attentive to code organization in the early stages of my research, I developed a strong understanding of the underlying theories, analytical workflows, and rationale behind each step. This allows me to reproduce analyses, troubleshoot methodological issues, and adapt established pipelines to new research questions and datasets.
 
 While developing FlexAutoDock, I started writing structured scripts following practical, team oriented paradigms so others can understand and use them easily. 
 
